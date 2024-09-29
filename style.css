@@ -1,0 +1,50 @@
+*{margin: 0;
+padding: 0;}
+
+html, body{height: 100%;
+width: 100%;
+background-image: url(./luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.avif);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+filter: brightness(90%);
+position: relative;}
+
+body>h1{font-size: 100px;
+font-weight: 900;
+position: absolute;
+top: 5%;
+left: 65%;
+color: rgb(92, 11, 11);
+font-style: italic;
+text-shadow: 15px 15px 15px black;}
+
+.div1{background-color: rgb(29, 28, 28);
+color: white;
+width: 600px;
+position: absolute;
+top: 20%;
+left: 63%;
+padding: 25px;
+text-align: right;
+box-shadow: 15px 15px 15px rgb(29, 28, 28), -15px -15px 15px rgb(29, 28, 28);}
+
+.div1>h1{font-size: 25px;
+display: inline;
+margin-right: 5px;
+color: white;}
+
+.div1>input{margin-bottom: 15px;
+background-color: white;
+font-size: 20px;
+padding: 10px 20px;
+width: 53%;}
+
+.div1>button{text-align: center;
+background-color: orange;
+color: black;
+font-size: 30px;
+width: 100%;
+border: none;
+padding: 10px;
+margin: 10px 0px;}
